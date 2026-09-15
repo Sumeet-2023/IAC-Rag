@@ -1,3 +1,4 @@
+
 # 🧠 RAG-Based Infrastructure-as-Code Agent
 
 > **Self-healing agentic RAG pipeline for Terraform generation — grounding, validation, and human-in-the-loop trust gates.**
@@ -13,6 +14,7 @@
 [![Status](https://img.shields.io/badge/Status-Active-brightgreen)]()
 
 ---
+https://github.com/user-attachments/assets/dd6dc40c-f451-4f8f-8afa-f73042b982ad
 
 ## 📖 Overview
 
